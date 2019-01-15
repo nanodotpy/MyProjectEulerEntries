@@ -6,6 +6,5 @@ for a in range(1000,0,-1):
     else :
         continue
     break
-    
-    
-        
+       
+#
