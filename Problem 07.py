@@ -31,3 +31,6 @@ def plist(n):
 plist(1000000)
 
 print(result[10000])
+
+
+#
