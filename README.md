@@ -1,6 +1,7 @@
 # MyProjectEulerEntries
 Project Euler Python entries.
 
+Beginner.
 
 I resolved my first Project Euler problem the 10th of January 2019.
 
