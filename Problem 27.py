@@ -1,4 +1,4 @@
-from math import ceil, sqrt
+from math import ceil, sqrt      #Not optimized but gets the job done
 
 def prime(n) : 
     
