@@ -1,10 +1,1 @@
-a = 0
-
-for i in range(0,1000) :
-    if i % 3 == 0 or i % 5 == 0 :
-        a += i
-        
-print(a)
-
-#
-        
+print(sum([a for a in range(1000) if a % 3 == 0 and a % 5 == 0]))
