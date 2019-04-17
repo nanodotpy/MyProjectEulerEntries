@@ -27,3 +27,4 @@ for a in primes:
     result += a*valpadique(a, 15000000, 20000000)
     
 print(result)
+#
